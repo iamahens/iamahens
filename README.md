@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
+
 <h1 align="center">Hi 👋, I'm Sneha Saxena</h1>
  Hello, 👋 I'm a passionate self-taught developer exploring the exciting world of frontend development, MERN (MongoDB, Express.js, React, Node.js) stack, and Java.</h3>
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.FolbIxttpQXi5KzvAqPB_gHaEK&pid=Api&P=0&h=180">
